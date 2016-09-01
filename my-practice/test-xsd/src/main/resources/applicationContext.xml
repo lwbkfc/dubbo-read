@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://www.lwb.com/schema/chewl"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.lwb.com/schema/chewl http://www.lwb.com/schema/chewl/chewl.xsd">
+    <dubbo:chewl name="chewenliang" id="test" address="beijing" age="12" phone="13564588165" profession="学术"></dubbo:chewl>
+</beans>

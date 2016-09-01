@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.lwb</groupId>
+        <artifactId>my-practice</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>test-xmlrpc</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>test-xmlrpc-api</module>
+        <module>test-xmlrpc-server</module>
+        <module>test-xmlrpc-client</module>
+    </modules>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.xmlrpc/xmlrpc-client -->
+        <dependency>
+            <groupId>org.apache.xmlrpc</groupId>
+            <artifactId>xmlrpc-client</artifactId>
+            <version>3.1.3</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.xmlrpc/xmlrpc-server -->
+        <dependency>
+            <groupId>org.apache.xmlrpc</groupId>
+            <artifactId>xmlrpc-server</artifactId>
+            <version>3.1.3</version>
+        </dependency>
+    </dependencies>
+</project>

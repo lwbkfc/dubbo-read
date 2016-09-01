@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-server" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-container/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-container/dubbo-container-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-config/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-config/dubbo-config-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-singlemode/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-xsd/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

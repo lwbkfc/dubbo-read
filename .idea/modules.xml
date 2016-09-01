@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-config/dubbo-config.iml" filepath="$PROJECT_DIR$/dubbo-config/dubbo-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-config/dubbo-config-api/dubbo-config-api.iml" filepath="$PROJECT_DIR$/dubbo-config/dubbo-config-api/dubbo-config-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-config/dubbo-config-spring/dubbo-config-spring.iml" filepath="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/dubbo-config-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-container/dubbo-container.iml" filepath="$PROJECT_DIR$/dubbo-container/dubbo-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-container/dubbo-container-api/dubbo-container-api.iml" filepath="$PROJECT_DIR$/dubbo-container/dubbo-container-api/dubbo-container-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-consumer/dubbo-demo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-consumer/dubbo-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider/dubbo-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-read.iml" filepath="$PROJECT_DIR$/dubbo-read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/my-practice.iml" filepath="$PROJECT_DIR$/my-practice/my-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-singlemode/test-singlemode.iml" filepath="$PROJECT_DIR$/my-practice/test-singlemode/test-singlemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-spi/test-spi.iml" filepath="$PROJECT_DIR$/my-practice/test-spi/test-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/test-xmlrpc-api.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/test-xmlrpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/test-xmlrpc-client.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/test-xmlrpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-server/test-xmlrpc-server.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-server/test-xmlrpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-xsd/test-xsd.iml" filepath="$PROJECT_DIR$/my-practice/test-xsd/test-xsd.iml" />
+    </modules>
+  </component>
+</project>
