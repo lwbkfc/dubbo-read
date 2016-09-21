@@ -14,5 +14,11 @@
         <module>test-spi</module>
         <module>test-singlemode</module>
         <module>test-xsd</module>
+        <module>test-xmlrpc</module>
+        <module>test-socketrpc</module>
+        <module>test-multiple</module>
+        <module>test-springmvc</module>
+        <module>test-disconf</module>
+        <module>test-annotation</module>
     </modules>
 </project>

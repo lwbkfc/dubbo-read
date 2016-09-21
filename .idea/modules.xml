@@ -14,8 +14,16 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider/dubbo-demo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-read.iml" filepath="$PROJECT_DIR$/dubbo-read.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/my-practice.iml" filepath="$PROJECT_DIR$/my-practice/my-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-annotation/test-annotation.iml" filepath="$PROJECT_DIR$/my-practice/test-annotation/test-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-disconf/test-disconf.iml" filepath="$PROJECT_DIR$/my-practice/test-disconf/test-disconf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-multiple/test-multiple.iml" filepath="$PROJECT_DIR$/my-practice/test-multiple/test-multiple.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/test-singlemode/test-singlemode.iml" filepath="$PROJECT_DIR$/my-practice/test-singlemode/test-singlemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc.iml" filepath="$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-api/test-socketrpc-api.iml" filepath="$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-api/test-socketrpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-client/test-socketrpc-client.iml" filepath="$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-client/test-socketrpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-server/test-socketrpc-server.iml" filepath="$PROJECT_DIR$/my-practice/test-socketrpc/test-socketrpc-server/test-socketrpc-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/test-spi/test-spi.iml" filepath="$PROJECT_DIR$/my-practice/test-spi/test-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-practice/test-springmvc/test-springmvc.iml" filepath="$PROJECT_DIR$/my-practice/test-springmvc/test-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/test-xmlrpc-api.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/test-xmlrpc-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/test-xmlrpc-client.iml" filepath="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/test-xmlrpc-client.iml" />

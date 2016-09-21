@@ -28,6 +28,14 @@
         <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-api/pom.xml" />
         <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-server/pom.xml" />
         <option value="$PROJECT_DIR$/my-practice/test-xmlrpc/test-xmlrpc-client/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-socketrpc/pom.xml" />
+        <option value="$PROJECT_DIR$/test-socketrpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/test-socketrpc-client/pom.xml" />
+        <option value="$PROJECT_DIR$/test-socketrpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-multiple/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-disconf/pom.xml" />
+        <option value="$PROJECT_DIR$/my-practice/test-annotation/pom.xml" />
       </list>
     </option>
   </component>
